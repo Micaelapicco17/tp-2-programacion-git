@@ -1,3 +1,4 @@
 nombre="micaela"
 apellido="picco"
-print(f"hola soy {nombre} {apellido} alumna de programacion ")
+edad="18"
+print(f"hola soy {nombre} {apellido} {edad} alumna de programacion ")
